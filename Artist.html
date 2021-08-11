@@ -50,11 +50,11 @@
             <h3>Discography</h3>
 
 
-            <div style="display:inline-block; padding-right: 5%;" v-for="album in albums">
+            <div style="display:inline-table; padding-right: 5%;" v-for="album in albums">
                 <a v-bind:href="album.url" target="_blank">
                     <img v-bind:src="album.cover" style="width:200px;height:200px;">
                 </a>
-                <p style="font-size: large;">{{ album.name }}</p>
+                <p style="font-size: large;width: 200px;">{{ album.name }}</p>
             </div>
 
 

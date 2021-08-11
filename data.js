@@ -9,7 +9,9 @@ var DATA = {
         ],
         sources: [
             { name: "Last FM Wiki", url: "https://www.last.fm/music/Nujabes/+wiki" }
-        ]
+        ],
+        Similar: false,
+        Collaborator: false,
     },
     "Uyama Hiroto": {
         name: "Uyama Hiroto",
@@ -22,7 +24,9 @@ var DATA = {
         ],
         sources: [
             { name: "Last FM Wiki", url: "https://www.last.fm/music/Uyama%20Hiroto/+wiki" }
-        ]
+        ],
+        Similar: true,
+        Collaborator: true,
     },
     "Substantial": {
         name: "Substantial",
@@ -39,6 +43,8 @@ var DATA = {
         ],
         sources: [
             { name: "Substantial's personal website", url: "https://www.iamsubstantial.com/bio", url: "",}
-        ]
+        ],
+        Similar: true,
+        Collaborator: true,
     }
 }

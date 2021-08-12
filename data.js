@@ -81,5 +81,18 @@ var DATA = {
         ],
         Similar: false,
         Collaborator: true
-    }
+    },
+    "Apani B": {
+        name: "Apani B",
+        bio: "Apani N. Smith (born September 17, 1974) known professionally as Apani B. Fly, is an American hip hop emcee. She collaborated with Nujabes on 'Thank You'",
+        discography: [
+            { name: "Rhyme Related", cover: "https://hydeout.net/wp/wp-content/uploads/2018/10/HOLP-002.jpg", year: "1999", url: "https://www.youtube.com/watch?v=DiQJ4_Po-pU&list=OLAK5uy_lWkzvm4-3ioYRlSrQJymDCV7098nDm03A" },
+            { name: "Stories 2 Tell", cover: "https://hydeout.net/wp/wp-content/uploads/2020/02/modal-soul-jacket-1.jpg", year: "2004", url: "https://www.youtube.com/watch?v=4yX8ZUgraOo&list=OLAK5uy_niAyXagkbvvFqmskg5FwZz2ucC_bn5EAs" },
+        ],
+        sources: [
+            { name: "Wikipedia", url: "https://en.m.wikipedia.org/wiki/Apani_B" }
+        ],
+        Similar: false,
+        Collaborator: true,
+    },
 }

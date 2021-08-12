@@ -42,9 +42,44 @@ var DATA = {
             { name: "Recompositions", cover: "https://f4.bcbits.com/img/a3437146784_16.jpg", year: "2019", url: "https://www.youtube.com/watch?v=SHHothI6Bp4&list=PLR2wqA739XnSIndXbOuNNWsDGjBshSDi5",},
         ],
         sources: [
-            { name: "Substantial's personal website", url: "https://www.iamsubstantial.com/bio", url: "",}
+            { name: "Substantial's personal website", url: "https://www.iamsubstantial.com/bio",}
         ],
         Similar: true,
         Collaborator: true,
+    },
+    "Cise Starr": {
+        name: "Cise Starr",
+        bio: "Cise Star is one of two emcees from CYNE and is known for his delivery that rolls over the listeners with an uncanny self-assured smoothness. A solid lyricist of the current generation, he has worked with big producers such as Nujabes from Japan on hit tracks 'High to Lows', 'Feather', and 'Lady Brown.'",
+        sources: [
+            { name: "Last FM Wiki", url: "https://www.last.fm/music/Cise+Star/+wiki",}
+        ],
+        Similar: false,
+        Collaborator: true,
+    },
+    "Cyne": {
+        name: "Cyne",
+        bio: "Cyne, often stylized as CYNE ('Cultivating Your New Experience'; pronounced 'sign'), is an American alternative hip hop group originating from Gainesville, Florida. The group consists of MCs Akin Yai and Clyde 'Cise Starr' Graham, and producers David 'Enoch' Newell and Michael 'Speck' Gersten, and are currently signed to Hometapes.",
+        discography: [
+           {name: "Growing", cover: "https://images.genius.com/893bb13bc4c8faccf87df3f11d029161.700x700x1.jpg", year: "2004", url:"https://www.youtube.com/watch?v=HPrOG_-t9xs&list=OLAK5uy_mYbDYbz2QTbQrnJEzywgZPRHriOjsNfE8"},
+           {name: "Running Water", cover: "https://images.genius.com/33016d8699a0bc5d3ea348ff0f0597f9.700x700x1.jpg", year: "2005", url: "https://www.youtube.com/watch?v=IZROFPUlfqY&list=OLAK5uy_m8AOFUvxaPReizBOj1cgP-2Tz84hPw5Bc"},
+           {name: "Starship Utopia", cover: "https://f4.bcbits.com/img/a0598764498_10.jpg", year: "2008", url: "https://www.youtube.com/watch?v=b40dtcBPkQc&list=OLAK5uy_nSsFk292WIyGxDeSiy6GMXlGbDakkL0tM"},
+           {name: "Pretty Dark Things", cover: "https://f4.bcbits.com/img/a2110891761_2.jpg", year: "2008", url: "https://www.youtube.com/watch?v=KWfh6c7p-7I&list=OLAK5uy_lAAr4MZ3XyKMWsJimWQlsy7Wf1tFJo6xI"},
+           {name: "Water for Mars", cover: "https://f4.bcbits.com/img/a2632400977_2.jpg", year: "2009", url: "https://www.youtube.com/watch?v=MRxoA6-UkSk&list=OLAK5uy_ma-3ev_QU6GRaxksHEp-0JmxiuCQmLahM"},
+           {name: "All My Angles Are Right", cover: "https://f4.bcbits.com/img/a1929332224_2.jpg", year: "2014", url: "https://www.youtube.com/watch?v=7XCWJtfXiD4&list=OLAK5uy_nZTx8Ova_D8-xxrd_xGu1AOL7Bd0eIP9A"}, 
+        ],
+        sources: [
+            { name: "Wikipedia", url: "https://en.wikipedia.org/wiki/Cyne",}
+        ],
+        Similar: true,
+        Collaborator: false,
+    },
+    "Akin Yai": {
+        name: "Akin Yai",
+        bio: "Born in Ouidah, Benin (West Africa) Akinlola Yai spent his early childhood years migrating back and forth from Benin republic to Nigeria. Akin Yai was one of two emcees from CYNE, the other being Cise Starr. He has worked with Nujabes on his song Feather on Metaphorical Music",
+        sources: [
+            { name: "Akin Yai's BandCamp", url: "https://akinyai.bandcamp.com/",}
+        ],
+        Similar: false,
+        Collaborator: true
     }
 }

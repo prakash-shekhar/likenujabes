@@ -86,8 +86,7 @@ var DATA = {
         name: "Apani B",
         bio: "Apani N. Smith (born September 17, 1974) known professionally as Apani B. Fly, is an American hip hop emcee. She collaborated with Nujabes on 'Thank You'",
         discography: [
-            { name: "Rhyme Related", cover: "https://hydeout.net/wp/wp-content/uploads/2018/10/HOLP-002.jpg", year: "1999", url: "https://www.youtube.com/watch?v=DiQJ4_Po-pU&list=OLAK5uy_lWkzvm4-3ioYRlSrQJymDCV7098nDm03A" },
-            { name: "Stories 2 Tell", cover: "https://hydeout.net/wp/wp-content/uploads/2020/02/modal-soul-jacket-1.jpg", year: "2004", url: "https://www.youtube.com/watch?v=4yX8ZUgraOo&list=OLAK5uy_niAyXagkbvvFqmskg5FwZz2ucC_bn5EAs" },
+            { name: "Story 2 Tell", cover: "https://images-na.ssl-images-amazon.com/images/I/51BZB3QNQEL._AC_.jpg", year: "2004", url: "https://www.youtube.com/watch?v=pKNXzPo7S7o&list=PLibtHhYtQvhapd7wKGSUyLzfkHUD7aL59" },
         ],
         sources: [
             { name: "Wikipedia", url: "https://en.m.wikipedia.org/wiki/Apani_B" }
@@ -95,4 +94,16 @@ var DATA = {
         Similar: false,
         Collaborator: true,
     },
+    "Pase Rock": {
+        name: "Pase Rock",
+        bio: "Pase Rock (real name: Patrick Johnson) is an american rapper from Cincinnati, Ohio. He is a member of Five Deez, and is also known for his collaborations with japanese producer Nujabes, alongside his Five Deez bandmates. He released his debut full-length 'Bullshit as Usual' on japanese label Dimid Recordings in 2003.",
+        discography: [
+            {name: "Bullshit as Usual", cover: "https://images-na.ssl-images-amazon.com/images/I/41419REYKWL.jpg", year: "2003", url: "https://www.youtube.com/watch?v=acuR06RtE1Q&list=PLrUnQJ9SnItVljcHGyfbgliJlFarCsSd9"}
+        ],
+        sources: [
+            {name: "Last.fm Wiki", url: "https://www.youtube.com/watch?v=acuR06RtE1Q&list=PLrUnQJ9SnItVljcHGyfbgliJlFarCsSd9"}
+        ],
+        Similar: false,
+        Collaborator: true
+    }
 }
